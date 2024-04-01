@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/MarkdownPostLayout.astro
 title: '我的第一篇博客文章'
 pubDate: 2022-07-01
 description: '这是我 Astro 博客的第一篇文章。'
@@ -8,8 +9,6 @@ image:
     alt: 'The full Astro logo.'
 tags: ["astro", "blogging", "learning in public"]
 ---
-
-# 我的第一篇博客文章
 
 发表于：2022-07-01
 
